@@ -3,3 +3,15 @@
 
 ### Assets
 - [Oculus Integration | Oculus](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+
+### Build Settings > Android > Player Settings > Player
+- Other Settings
+  - Graphics APIs
+    DELETE 'Vulkan'
+  - Identification
+    - Minimum API Level
+      CHANGE TO '4.4'
+
+- XR Settings
+  - Virtual Reality SDKs
+    ADD 'Oculus'
