@@ -5,6 +5,7 @@
 
 ### Assets
 - [Oculus Integration | Oculus](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+- [Package Uninstaller](https://assetstore.unity.com/packages/tools/utilities/package-uninstaller-35439)
 
 ### Build Settings > Android > Player Settings > Player
 - Other Settings
